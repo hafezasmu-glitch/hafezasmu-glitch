@@ -40,7 +40,7 @@ I build modern, responsive, and interactive web experiences with a strong focus 
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asm-usman.netlify.app/)
-[![YouTube](https://img.shields.io/badge/Land_of_Islam-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Land-of-Islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-saleh-md-usman-6518593a3/)
 
 ---
 
