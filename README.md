@@ -1,22 +1,26 @@
+<div align="center">
+
 # Assalamu Alaikum, I'm Abu Saleh Md Usman 👋
 
 ### Web Developer • Creative Technologist • Founder of ASMU
 
-I build modern, responsive, and interactive web experiences with a strong focus on clean design, accessibility, smooth motion, and meaningful digital products.
+I build modern, responsive, and interactive web experiences with a focus on clean design, accessibility, smooth motion, and meaningful digital products.
 
-- 🌐 Portfolio: [asm-usman.netlify.app](https://asm-usman.netlify.app/)
-- 🕌 Building: [Land of Islam](https://land-of-islam.netlify.app/)
-- 🚀 Exploring: education technology, immersive web experiences, and creative frontend development
-- 📍 Sylhet, Bangladesh
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asm-usman.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-saleh-md-usman-6518593a3/)
+
+📍 Sylhet, Bangladesh
+
+</div>
 
 ## Featured Projects
 
 | Project | Description | Live Demo |
 |---|---|---|
-| **Land of Islam** | A modern Islamic knowledge platform designed for accessible learning. | [Visit Website](https://land-of-islam.netlify.app/) |
-| **ASMU Space** | An immersive space exploration experience with modern visuals and interaction. | [Visit Website](https://asmu-space.netlify.app/) |
-| **Maulana Abdullah Al Mansur** | A professional profile and knowledge-focused website for an Islamic scholar. | [Visit Website](https://abdullahalmonsur.netlify.app/) |
-| **ASMU Portfolio** | My personal portfolio, selected work, skills, and creative journey. | [Visit Website](https://asm-usman.netlify.app/) |
+| **Land of Islam** | A modern Islamic knowledge platform designed for accessible learning. | [Live Demo ↗](https://land-of-islam.netlify.app/) |
+| **ASMU Space** | An immersive space exploration experience with modern visuals and interaction. | [Live Demo ↗](https://asmu-space.netlify.app/) |
+| **Maulana Abdullah Al Mansur** | A professional profile and knowledge-focused website for an Islamic scholar. | [Live Demo ↗](https://abdullahalmonsur.netlify.app/) |
+| **ASMU Portfolio** | My personal portfolio, selected work, skills, and creative journey. | [Live Demo ↗](https://asm-usman.netlify.app/) |
 
 ## Tools & Technologies
 
@@ -37,11 +41,10 @@ I build modern, responsive, and interactive web experiences with a strong focus 
 - Fast, accessible, and user-friendly websites
 - Educational and community-focused digital products
 
-## Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asm-usman.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-saleh-md-usman-6518593a3/)
-
 ---
 
-> Learn continuously. Build thoughtfully. Create with purpose.
+<div align="center">
+
+*Learn continuously • Build thoughtfully • Create with purpose*
+
+</div>
